@@ -1,6 +1,6 @@
-# CEADEMA Premium — páginas legais
+# CEADEMA Pro — páginas legais
 
-Páginas públicas exigidas pelo Google Play para o aplicativo **CEADEMA Premium**
+Páginas públicas exigidas pelo Google Play para o aplicativo **CEADEMA Pro**
 (Convenção Estadual das Assembleias de Deus no Maranhão).
 
 - [Política de Privacidade](politica-de-privacidade.html)
