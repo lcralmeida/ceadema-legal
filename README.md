@@ -6,6 +6,7 @@ Páginas públicas exigidas pelo Google Play para o aplicativo **CEADEMA Pro**
 - [Política de Privacidade](politica-de-privacidade.html)
 - [Termos de Uso](termos-de-uso.html)
 - [Exclusão de conta e dados](exclusao-de-conta.html)
+- [Padrões de segurança infantil](seguranca-infantil.html)
 
 Site: https://lcralmeida.github.io/ceadema-legal/
 
